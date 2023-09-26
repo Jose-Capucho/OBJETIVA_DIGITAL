@@ -250,7 +250,6 @@ header *{
     border-bottom: none;
 }
 
-
 /* section 2 */
 .sec-2 .sec-item{
     text-align: center;
@@ -300,6 +299,17 @@ header *{
     background-color: #FFF;
 }
 
+/* section 5 */
+.sec-5{
+    text-align: center;
+    min-height: 100vh;
+}
+.sec-5 img{
+    margin: auto;
+}
+.sec-5 .text{
+    padding: 3rem 0;
+}
 
 
 
