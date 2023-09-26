@@ -311,8 +311,34 @@ header *{
     padding: 3rem 0;
 }
 
-
-
+/* section 6 */
+.sec-6{
+    background-color: var(--dark);
+    color: #FFF;
+    min-height: 100vh;
+}
+.sec-6 .container{
+    max-width: 900px;
+}
+.sec-6 .sec-item{
+    margin: 4rem;
+}
+.sec-6 .item-img{
+    height: 400px;
+    overflow: hidden;
+}
+.sec-6 .sec-item .md-title{
+    margin-bottom: 1rem;
+}
+.sec-6 .sec-item span:first-of-type{
+    margin-right: 1rem;
+}
+.sec-6 .sec-item .text{
+    margin: 1rem 0;
+}
+.sec-6 i {
+    padding: 0.5rem;
+}
 
 
 
