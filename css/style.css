@@ -34,7 +34,7 @@ button{
     outline: 0;
     cursor: pointer;
 }
-hi, h2, h3, h4, h5, h6{
+h1, h2, h3, h4, h5, h6{
     font-family: var(--inter);
 }
 img{
@@ -85,7 +85,7 @@ img{
 }
 .container{
     max-width: 1200px;
-    margin-top: 1.2rem;
+    margin: 0 auto;
 }
 section{
     padding: 1rem;
@@ -221,7 +221,6 @@ header *{
     border-color: var(--orange);
 }
 
-
 /* section 1 */
 .sec-1{
     background-color: var(--dark);
@@ -248,7 +247,9 @@ header *{
     border-bottom: none;
 }
 
+
 /* section 2 */
+
 
 
 
