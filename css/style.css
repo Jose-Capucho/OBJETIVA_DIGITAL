@@ -4,7 +4,7 @@
     --poppins: 'Poppins', sans-serif;
     --inter: 'Inter', sans-serif;
     --transition: all 0.3s ease-in-out;
-    --purple: #7F67B5;
+    --orange: #da4812;
     --dark: #323234;    
     --light-grey: #F7F7F9;
     --mid-grey: #AFAFB0;
@@ -62,21 +62,21 @@ img{
     font-weight: 600;
     transition: var(--transition);
 }
-.btn-purple{
-    background: var(--purple);
-    border-color: var(--purple);
+.btn-orange{
+    background: var(--orange);
+    border-color: var(--orange);
 }
-.btn-purple:hover{
+.btn-orange:hover{
     background: transparent;
     border-color: #FFF;
 }
 .btn-transparent{
-    border-color: var(--purple);
-    color: var(--purple);
+    border-color: var(--orange);
+    color: var(--orange);
 }
 .btn-transparent:hover{
-    background: var(--purple);
-    border-color: var(--purple);
+    background: var(--orange);
+    border-color: var(--orange);
     color: #FFF;
 }
 .btn-group .btn:first-child{
@@ -104,7 +104,7 @@ section{
     margin-top: 1rem;
 }
 .link-hover{
-    color: var(--purple);
+    color: var(--orange);
     font-weight: 600;
 }
 .link-hover:hover{
@@ -135,6 +135,9 @@ header{
 }
 header *{
     color: #FFF;
+}
+.img-logo{
+    height: 60px;
 }
 .navbar{
     position: fixed;
@@ -215,7 +218,7 @@ header *{
     line-height: 1.7;
 } 
 .header-content .btn-transparent:hover{
-    border-color: var(--purple);
+    border-color: var(--orange);
 }
 
 
