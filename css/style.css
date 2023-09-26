@@ -249,7 +249,24 @@ header *{
 
 
 /* section 2 */
+.sec-2 .sec-item{
+    text-align: center;
+}
+.sec-2 .sec-item span{
+    background: var(--orange);
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    color: #FFF;
+    margin: auto;
+    font-size: 1.5rem;
+}
+.sec-2 .sec-item .text{
+    max-width: 480px;
+    margin: 0 auto;
+}
 
+/* section 3 */
 
 
 
