@@ -267,7 +267,17 @@ header *{
 }
 
 /* section 3 */
-
+.sec-3 {
+    background-color: var(--light-grey);
+}
+.sec-3 .sec-item{
+    background-color: #FFF;
+    overflow: hidden;
+}
+.sec-3 .item-top{
+    padding: 3rem 1rem;
+    text-align: center;
+}
 
 
 
