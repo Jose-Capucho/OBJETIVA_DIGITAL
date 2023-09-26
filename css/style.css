@@ -375,6 +375,54 @@ header *{
     font-size: 1rem;
 }
 
+/* section 9 */
+.sec-9{
+    background-color: var(--light-grey);
+}
+.sec-9 .item-content .lg-title{
+    margin-bottom: 0.6rem;
+}
+.sec-9 .item-content{
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+/* section 10 */
+.sec-10 .sec-item{
+    text-align: center;
+    padding: 0 0 3rem 0;
+    background-color: var(--light-grey);
+    max-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sec-10 .item-top{
+    background-color: var(--orange);
+    color: #FFF;
+    padding: 1rem 0;
+}
+.sec-10 .item-top h2{
+    text-transform: uppercase;
+}
+.sec-10 .item-top div span:nth-child(1){
+    font-size: 1.4rem;
+    font-family: var(--inter);
+    font-weight: 800;
+}
+.sec-10 .item-top div span:nth-child(2){
+    font-size: 2rem;
+    font-family: var(--inter);
+    font-weight: 800;
+}
+.sec-10 .item-bottom ul{
+    padding: 2rem 0;
+}
+.sec-10 .item-bottom ul li{
+    padding: 0.6rem 0;
+}
+.sec-10 .btn-transparent{
+    margin-top: 2rem;
+}
 
 
 
