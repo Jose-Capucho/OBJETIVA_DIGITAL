@@ -83,6 +83,9 @@ img{
     margin-right: 0.7rem;
     margin-top: 1.2rem;
 }
+.btn-group .btn:first-child:hover{
+    border: 2px solid #FFF;
+}
 .container{
     max-width: 1200px;
     margin: 0 auto;
@@ -279,9 +282,23 @@ header *{
     text-align: center;
 }
 
-
-
-
+/* section 4 */
+.sec-4 {
+    background: linear-gradient(rgba(212, 130, 92, 0.8), rgba(212, 130, 92, 0.8)), url('../images/bg-header.jpg') center/cover no-repeat fixed;
+    color: #FFF;
+    text-align: center;
+}
+.sec-4 .lg-title{
+    margin-bottom: 0;
+}
+.sec-4 .btn-transparent{
+    border-color: #FFF;
+    color: #FFF;
+}
+.sec-4 .btn-transparent:hover{
+    color: var(--orange);
+    background-color: #FFF;
+}
 
 
 
