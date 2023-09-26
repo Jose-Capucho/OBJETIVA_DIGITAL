@@ -222,6 +222,55 @@ header *{
 }
 
 
+/* section 1 */
+.sec-1{
+    background-color: var(--dark);
+    color: #FFF;
+}
+.sec-1 .sec-item span{
+    font-size: 2rem;
+    color: var(--mid-grey);
+    display: block;
+    padding-bottom: 0.5rem;
+}
+.sec-1 .sec-item h2{
+    font-size: 1.8rem;
+    padding: 0.6rem 0;
+}
+.sec-1 .sec-item{
+    text-align: center;
+    max-width: 300px;
+    border-bottom: 0.5px solid rgba(255, 255, 255, 0.4);
+    margin: 0 auto;
+    padding: 3rem 2rem;
+}
+.sec-1 .sec-item:last-child{
+    border-bottom: none;
+}
+
+/* section 2 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
