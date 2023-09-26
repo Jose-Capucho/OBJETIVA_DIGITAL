@@ -356,6 +356,24 @@ header *{
     margin: 0 auto;
 }
 
+/* section 8 */
+.sec-8{
+    background: linear-gradient(rgba(212, 130, 92, 0.8), rgba(212, 130, 92, 0.8)), url('../images/bg-inspiration.jpg') center/cover no-repeat fixed;
+    color: #FFF;
+    text-align: center;
+}
+.sec-8 .sec-item span{
+    width: 80px;
+    height: 80px;
+    border: 2.5px solid #FFF;
+    border-radius: 50%;
+    font-size: 2rem;
+    margin: 0 auto;
+}
+.sec-8 .sec-item h3{
+    margin: 2rem 0;
+    font-size: 1rem;
+}
 
 
 
