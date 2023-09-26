@@ -1,5 +1,5 @@
 const navToggleShowBtn = document.getElementById('navbar-toggler-show');
-const navToggleCloseBtn = document.getElementById('nav-bar-toggler-close');
+const navToggleCloseBtn = document.getElementById('navbar-toggler-close');
 const navbarCollapseDiv = document.getElementById('navbar-collapse');
 const navbarDiv = document.querySelector('.navbar');
 
@@ -21,3 +21,4 @@ window.addEventListener('scroll', () => {
     }
 
 });
+
