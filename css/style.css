@@ -142,6 +142,7 @@ header *{
 .img-logo{
     height: 60px;
     width: 110px;
+    margin: 20px;
 }
 .navbar{
     position: fixed;
