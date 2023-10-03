@@ -37,5 +37,4 @@ Através deste projeto, busquei demonstrar minhas habilidades na criação de um
 
 # Imagens do projeto:
 
-![image](https://github.com/Jose-Capucho/OBJETIVA_DIGITAL/assets/97485966/49f1ab5b-4bac-489f-9c33-7ae20aaa5d25)
-
+![image](https://github.com/Jose-Capucho/OBJETIVA_DIGITAL/assets/97485966/b55173ef-420b-43b0-857e-952312ff0533)
